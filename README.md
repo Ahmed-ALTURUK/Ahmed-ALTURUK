@@ -21,8 +21,8 @@
 <br />
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-ALTURUK&amp;theme=rose_pine&amp;show_icons=true&amp;hide_border=false&amp;count_private=true&amp;include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ALTURUK&amp;theme=rose_pine&amp;layout=compact&amp;hide_border=false&amp;langs_count=5" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 <br />
@@ -37,19 +37,21 @@
 
 <br />
 
-<img data-importer="image" align="left" height="200" src="https://i.gifer.com/XOsX.gif"  />
-
-
-<div data-importer="border">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt"  />
-</div>
-
-<br />
-
-<p data-importer="text" align="center">Giving it my all!</p>
-
-<br />
-
-<div data-importer="border">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=footer&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt"  />
-</div>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img data-importer="image" height="200" src="https://i.gifer.com/XOsX.gif" />
+    </td>
+    <td width="75%" align="center" valign="middle">
+      <div data-importer="border">
+        <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
+      </div>
+      <br />
+      <p data-importer="text" align="center">Giving it my all!</p>
+      <br />
+      <div data-importer="border">
+        <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=footer&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
+      </div>
+    </td>
+  </tr>
+</table>
