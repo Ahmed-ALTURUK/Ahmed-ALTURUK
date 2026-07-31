@@ -17,13 +17,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
+<hr/>
 <br />
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/languages.svg" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-ALTURUK&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-ALTURUK&theme=transparent" alt="Top Languages by Repo" />
+</p>
+<hr/>
 
 <br />
 
@@ -34,24 +35,24 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<hr/>
 
 <br />
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img data-importer="image" height="200" src="https://i.gifer.com/XOsX.gif" />
-    </td>
-    <td width="75%" align="center" valign="middle">
-      <div data-importer="border">
-        <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
-      </div>
-      <br />
-      <p data-importer="text" align="center">Giving it my all!</p>
-      <br />
-      <div data-importer="border">
-        <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=footer&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="left" height="200" src="https://i.gifer.com/XOsX.gif" />
+  
+  <div align="center">
+    <img width="75%" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
+        <br />
+    <p><b>Giving it my all!</b></p>
+    <br />
+ <img width="75%" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=footer&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
+    
+   
+  </div>
+</div>
+
+<br clear="both" />
+<!-- هذا السطر مهم جداً لضمان عدم تداخل العناصر اللي بتيجي بعد هالمقطع -->
+<br clear="both" />
