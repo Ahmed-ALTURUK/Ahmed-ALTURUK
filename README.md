@@ -28,14 +28,17 @@
 <br />
 
 <div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/snake-output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ahmed-ALTURUK/Ahmed-ALTURUK/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
 
 <img data-importer="image" align="left" height="200" src="https://i.gifer.com/XOsX.gif"  />
 
-<br />
 
 <div data-importer="border">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt"  />
