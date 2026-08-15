@@ -45,7 +45,7 @@
   <div align="center">
     <img width="75%" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=header&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
         <br />
-    <p><b>Giving it my all!</b></p>
+    <p><b>Giving it my all!!</b></p>
     <br />
  <img width="75%" src="https://capsule-render.vercel.app/api?type=egg&amp;height=100&amp;section=footer&amp;reversal=false&amp;fontSize=70&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=50&amp;stroke=-&amp;descSize=20&amp;descAlign=50&amp;descAlignY=50&amp;theme=cobalt" />
     
@@ -54,5 +54,4 @@
 </div>
 
 <br clear="both" />
-<!-- هذا السطر مهم جداً لضمان عدم تداخل العناصر اللي بتيجي بعد هالمقطع -->
 <br clear="both" />
