@@ -21,8 +21,8 @@
 <br />
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-ALTURUK&theme=transparent" alt="GitHub Stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-ALTURUK&theme=transparent" alt="Top Languages by Repo" />
+ <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-ALTURUK&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ALTURUK&theme=transparent&langs_count=10&layout=compact" alt="Top Languages" />
 </p>
 <hr/>
 
